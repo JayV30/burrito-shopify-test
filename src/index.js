@@ -1,12 +1,19 @@
+/** IE 11 POLYFILL */
+import 'react-app-polyfill/ie11';
+import 'react-app-polyfill/stable';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import { HashRouter as Router } from 'react-router-dom';
+import 'style/index.sass';
+import App from 'components/App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <App />
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );

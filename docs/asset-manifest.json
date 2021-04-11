@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://jayv30.github.io/burrito-shopify-test/static/css/main.c6e9f452.chunk.css",
+    "main.js": "https://jayv30.github.io/burrito-shopify-test/static/js/main.c9f73ebf.chunk.js",
+    "main.js.map": "https://jayv30.github.io/burrito-shopify-test/static/js/main.c9f73ebf.chunk.js.map",
+    "runtime-main.js": "https://jayv30.github.io/burrito-shopify-test/static/js/runtime-main.37c78633.js",
+    "runtime-main.js.map": "https://jayv30.github.io/burrito-shopify-test/static/js/runtime-main.37c78633.js.map",
+    "static/js/2.e135d48e.chunk.js": "https://jayv30.github.io/burrito-shopify-test/static/js/2.e135d48e.chunk.js",
+    "static/js/2.e135d48e.chunk.js.map": "https://jayv30.github.io/burrito-shopify-test/static/js/2.e135d48e.chunk.js.map",
+    "static/js/3.c997639c.chunk.js": "https://jayv30.github.io/burrito-shopify-test/static/js/3.c997639c.chunk.js",
+    "static/js/3.c997639c.chunk.js.map": "https://jayv30.github.io/burrito-shopify-test/static/js/3.c997639c.chunk.js.map",
+    "index.html": "https://jayv30.github.io/burrito-shopify-test/index.html",
+    "static/css/main.c6e9f452.chunk.css.map": "https://jayv30.github.io/burrito-shopify-test/static/css/main.c6e9f452.chunk.css.map",
+    "static/js/2.e135d48e.chunk.js.LICENSE.txt": "https://jayv30.github.io/burrito-shopify-test/static/js/2.e135d48e.chunk.js.LICENSE.txt",
+    "static/media/store.module.sass": "https://jayv30.github.io/burrito-shopify-test/static/media/background.2931c7c8.jpg",
+    "static/media/about.module.sass": "https://jayv30.github.io/burrito-shopify-test/static/media/background.85896410.jpg",
+    "static/media/home.module.sass": "https://jayv30.github.io/burrito-shopify-test/static/media/background.b1455f27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c78633.js",
+    "static/js/2.e135d48e.chunk.js",
+    "static/css/main.c6e9f452.chunk.css",
+    "static/js/main.c9f73ebf.chunk.js"
+  ]
+}
