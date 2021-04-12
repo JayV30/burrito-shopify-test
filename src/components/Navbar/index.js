@@ -14,7 +14,7 @@ const Navbar = ({ setTopPadding, activeMenuItem }) => {
   }));
 
   return (
-    <nav ref={navRef} id={styles.primaryNav} className="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
+    <nav ref={navRef} id={styles.primaryNav} className="navbar is-fixed-top" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <Link className="navbar-item" to="/">
           <img src={logoImg} alt="BurritoArt Logo" />
